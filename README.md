@@ -19,12 +19,12 @@
     
 <tr>  
 <td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
+<p><b><center>JavaScript</center></b></p> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>  
 
 <td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
+<p><b><center>HTML</center></b></p> 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
      
