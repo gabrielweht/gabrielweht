@@ -83,7 +83,7 @@ Más abajo podrás ver ambos repositorios
 
 ### ¿Quieres saber más? Contáctame: 
 <div align='center'>
-<a href="https://www.linkedin.com/in/gabriel-weht/" target="_blank" margin='10px'>
+<a href="https://www.linkedin.com/in/gabriel-weht/" target="_blank">
   <img alt="LinkdeIn" width="5%" color='white' src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />
 </a>
 <a href="mailto:gabrielestebanw@gmail.com" target="_blank"><img src="https://img.icons8.com/color/344/gmail.png" width="5%" alt="mail"></a>
