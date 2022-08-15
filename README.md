@@ -13,14 +13,15 @@
 <table>
 <tbody>
  <tr>
+
 <td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+<span><b><center>ReactJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -31,8 +32,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+<span><b><center>Redux</center></b></span> 
+<img height=65px src="https://icons8.com/icon/jD-fJzVguBmw/redux"> 
 </td>
 
 <td align="center" width="20%">
@@ -71,10 +72,6 @@
 <img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
-</td>
 
 <td align="center" width="20%">
 <span><b><center>HTML</center></b></span> 
