@@ -2,9 +2,7 @@
     <img src='https://github.com/gabrielweht/gabrielweht/blob/main/imgageRead.jpg' </img>
 </p>
 
-<h1 align="center">Hola 👋👋, mi nombre es Gabriel Weht <a href="https://www.linkedin.com/in/gabriel-weht/" target="_blank">
-  <img align="left" alt="LinkdeIn" width="30px" color='white' src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
-</a><a href="mailto:gabrielestebanw@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a></h1>
+<h1 align="center">Hola 👋👋, mi nombre es Gabriel Weht</h1>
 
 <h3 align="center">Soy Desarrollador Web Full Stack con capacidad de realizar proyectos teniendo en mente siempre la escalabilidad y modularización del mismo. Además me considero una persona curiosa, siempre buscando aprender más y compartiendo lo que ya sé con el resto. Con orientación a los resultados y al cliente y con gran capacidad analítica.</h3>
 
@@ -20,6 +18,11 @@
 - PostgreSQL
 - Sequelize
 
+##¿Quieres saber más? Contáctame:
+<a href="https://www.linkedin.com/in/gabriel-weht/" target="_blank">
+  <img align="left" alt="LinkdeIn" width="30px" color='white' src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
+</a><a href="mailto:gabrielestebanw@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a>
+<a href="https://wa.me/3518019304"><img src="https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg" width="30px" alt="mail"></a>
 <!-- ## Comenzando
 
  1. Forkear el repositorio para tener una copia del mismo en sus cuentas
