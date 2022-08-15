@@ -96,8 +96,10 @@ Más abajo podrás ver ambos repositorios
 
 
 ### ¿Quieres saber más? Contáctame: 
+<div align='center'>
 <a href="https://www.linkedin.com/in/gabriel-weht/" target="_blank">
-  <img alt="LinkdeIn" width="3%" color='white' src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />
+  <img alt="LinkdeIn" width="5%" color='white' src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />
 </a>
-<a href="mailto:gabrielestebanw@gmail.com" target="_blank"><img src="https://img.icons8.com/color/344/gmail.png" width="3%" alt="mail"></a>
-<a href="https://wa.me/+5490351158019304" target="_blank"><img src="https://img.icons8.com/color/344/whatsapp.png" width="3%" alt="mail"></a>
+<a href="mailto:gabrielestebanw@gmail.com" target="_blank"><img src="https://img.icons8.com/color/344/gmail.png" width="5%" alt="mail"></a>
+<a href="https://wa.me/+5490351158019304" target="_blank"><img src="https://img.icons8.com/color/344/whatsapp.png" width="5%" alt="mail"></a>
+</div>
