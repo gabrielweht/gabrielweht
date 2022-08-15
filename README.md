@@ -16,8 +16,8 @@
 
 <table align='center'>
 <tbody>
- <tr>
-     
+    
+<tr>  
 <td align="center" width="20%">
 <span><b><center>HTML</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
@@ -31,10 +31,8 @@
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
-</td>
-     
+</td>  
 </tr>
-
     
 <tr>
 <td align="center" width="20%">
@@ -51,39 +49,29 @@
 <span><b><center>NodeJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
-
 </tr>
     
 <tr>
-
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/344/sql.png"> 
 </td>
-
-
 
 <td align="center" width="20%">
 <span><b><center>postgreSQL</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/344/postgreesql.png"> 
 </td>
 
-
-
-
-
 <td align="center" width="20%">
 <span><b><center>Sequelize</center></b></span> 
 <img height=65px src="https://github.com/gabrielweht/gabrielweht/blob/main/logoSequelize.png"> 
 </td>
-
-
-
-
 </tr>
 
 </tbody>
 </table>
+
+<hr/>
 
 ### Experiencia:
 
@@ -91,9 +79,7 @@
 Más abajo podrás ver ambos repositorios
 </h5>
 
-
 <hr/>
-
 
 ### ¿Quieres saber más? Contáctame: 
 <div align='center'>
