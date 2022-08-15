@@ -83,6 +83,10 @@
 </tbody>
 </table>
 
+<h5 align='center'>Mi experiencia en la programación siempre ha sido en el ámbito académico. Durante el bootcamp de Henry desarrollé un proyecto individual que muestra videojuegos🎮, trayéndolos ya sea de una API o bien, los que están guardados en la Base de Datos, pudiendo filtrarlos, ordenarlos y hasta crearlos. Además participé de un proyecto grupal, en el cual diseñamos un E-commerce para la venta de productos de calzados👟, en el cual se incluyó una pasarela de pagos, un carrito, autenticación, perfil para el usuario y para el administrador y la creación y edición de productos. En ambos proyectos se utilizaron las herramientas mencionadas anteriormente y el diseño se trabajó con CSS3 puro. Este proyecto está en constante cambio ya que va a ser lanzado a producción.
+Más abajo podrás ver ambos repositorios
+</h5>
+
 ### ¿Quieres saber más? Contáctame: 
 <a href="https://www.linkedin.com/in/gabriel-weht/" target="_blank">
   <img alt="LinkdeIn" width="26px" color='white' src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
