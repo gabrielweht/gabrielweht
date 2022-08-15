@@ -32,9 +32,7 @@
 <p><b><center>CSS3</center></b></p> 
 <img height=65px src="https://img.icons8.com/color/344/css3.png"> 
 </td>
-</tr>
-    
-<tr>
+
 <td align="center" width="20%">
 <p><b><center>ReactJS</center></b></p> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
@@ -49,9 +47,7 @@
 <p><b><center>NodeJS</center></b></p> 
 <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
-</tr>
     
-<tr>
 <td align="center" width="20%">
 <p><b><center>SQL</center></b></p> 
 <img height=65px src="https://img.icons8.com/color/344/sql.png"> 
