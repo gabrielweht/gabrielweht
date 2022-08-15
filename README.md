@@ -83,6 +83,6 @@
 
 ### ¿Quieres saber más? Contáctame: 
 <a href="https://www.linkedin.com/in/gabriel-weht/" target="_blank">
-  <img alt="LinkdeIn" width="30px" color='white' src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
+  <img alt="LinkdeIn" width="26px" color='white' src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:gabrielestebanw@gmail.com" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a>
