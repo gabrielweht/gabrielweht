@@ -33,7 +33,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Redux</center></b></span> 
-<img height=65px src="https://icons8.com/icon/jD-fJzVguBmw/redux"> 
+<img height=65px src="https://img.icons8.com/color/452/redux.png"> 
 </td>
 
 <td align="center" width="20%">
