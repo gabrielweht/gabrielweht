@@ -12,7 +12,7 @@
 
 <a href="https://www.javascript.com/" target="_blank">
   <img alt="LinkdeIn" width="30px" color='white' src="https://e7.pngegg.com/pngimages/220/595/png-clipart-javascript-logo-product-design-brand-angularjs-dashboard-templates-angle-text.png" />
-  <p align='center'>JavaScript</p>
+  <p>JavaScript</p>
 </a>
 
 - JavaScript
