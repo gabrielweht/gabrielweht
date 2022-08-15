@@ -10,6 +10,11 @@
 
 ### Tech Skills:
 
+<a href="https://www.javascript.com/" target="_blank">
+  <img alt="LinkdeIn" width="30px" color='white' src="https://e7.pngegg.com/pngimages/220/595/png-clipart-javascript-logo-product-design-brand-angularjs-dashboard-templates-angle-text.png" />
+  <p align='center'>JavaScript</p>
+</a>
+
 - JavaScript
 - ReactJS
 - Redux
@@ -18,11 +23,11 @@
 - PostgreSQL
 - Sequelize
 
-## ¿Quieres saber más? Contáctame: 
+### ¿Quieres saber más? Contáctame: 
 <a href="https://www.linkedin.com/in/gabriel-weht/" target="_blank">
-  <img align="left" alt="LinkdeIn" width="30px" color='white' src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
+  <img alt="LinkdeIn" width="30px" color='white' src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
 </a>
-<a href="mailto:gabrielestebanw@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a>
+<a href="mailto:gabrielestebanw@gmail.com" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a>
 <!-- ## Comenzando
 
  1. Forkear el repositorio para tener una copia del mismo en sus cuentas
