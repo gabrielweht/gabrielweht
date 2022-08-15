@@ -8,6 +8,8 @@
 
 <hr/>
 
+<h6>Mi interés por la programación surgió en mis primeros años en la carrera de Ingeniería Electromecánica, en los cuales aprendí sobre Python, y con ese lenguaje, escribir códigos capaces de resolver ecuaciones y problemas cotidianos en la vida de un ingeniero que, de no resolveros con código, tomarían muchas cuentas y mucho tiempo. Ahí me di cuenta que lo que me apasionaba era la programación. Por esta razón, decidí iniciarme en el mundo IT e ingresé en #SoyHenry🚀🚀, para poder especialicarme más en la programación.</h6>
+
 ### Tech Skills:
 
 <table>
