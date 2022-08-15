@@ -70,7 +70,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Sequelize</center></b></span> 
-<img height=65px src="https://pbs.twimg.com/profile_images/1509802359383367691/R0psIpR4_400x400.jpg"> 
+<img height=65px src="https://github.com/gabrielweht/gabrielweht/blob/main/logoSequelize.png"> 
 </td>
 
 
