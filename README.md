@@ -16,56 +16,58 @@
 
 <table align='center'>
 <tbody>
-    <tr>  
-        <td align="center" width="20%">
-            <p><b><center>JavaScript</center></b></p> 
-            <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
-        </td>  
+    
+<tr>  
+<td align="center" width="20%">
+<p><b><center>JavaScript</center></b></p> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>  
 
-        <td align="center" width="20%">
-            <p><b><center>HTML</center></b></p> 
-            <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
-        </td>
+<td align="center" width="20%">
+<p><b><center>HTML</center></b></p> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+     
+<td align="center" width="20%">
+<p><b><center>CSS3</center></b></p> 
+<img height=65px src="https://img.icons8.com/color/344/css3.png"> 
+</td>
+</tr>
+    
+<tr>
+<td align="center" width="20%">
+<p><b><center>ReactJS</center></b></p> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+</td>
 
-        <td align="center" width="20%">
-            <p><b><center>CSS3</center></b></p> 
-            <img height=65px src="https://img.icons8.com/color/344/css3.png"> 
-        </td>
-    </tr>
+<td align="center" width="20%">
+<p><b><center>Redux</center></b></p> 
+<img height=65px src="https://img.icons8.com/color/452/redux.png"> 
+</td>
+    
+<td align="center" width="20%">
+<p><b><center>NodeJS</center></b></p> 
+<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+</td>
+</tr>
+    
+<tr>
+<td align="center" width="20%">
+<p><b><center>SQL</center></b></p> 
+<img height=65px src="https://img.icons8.com/color/344/sql.png"> 
+</td>
 
-    <tr>
-        <td align="center" width="20%">
-            <p><b><center>ReactJS</center></b></p> 
-            <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-        </td>
+<td align="center" width="20%">
+<p><b><center>postgreSQL</center></b></p> 
+<img height=65px src="https://img.icons8.com/color/344/postgreesql.png"> 
+</td>
 
-        <td align="center" width="20%">
-            <p><b><center>Redux</center></b></p> 
-            <img height=65px src="https://img.icons8.com/color/452/redux.png"> 
-        </td>
+<td align="center" width="20%">
+<p><b><center>Sequelize</center></b></p> 
+<img height=65px src="https://github.com/gabrielweht/gabrielweht/blob/main/logoSequelize.png"> 
+</td>
+</tr>
 
-        <td align="center" width="20%">
-            <p><b><center>NodeJS</center></b></p> 
-            <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
-        </td>
-     </tr>
-
-     <tr>
-        <td align="center" width="20%">
-            <p><b><center>SQL</center></b></p> 
-            <img height=65px src="https://img.icons8.com/color/344/sql.png"> 
-        </td>
-
-        <td align="center" width="20%">
-            <p><b><center>postgreSQL</center></b></p> 
-            <img height=65px src="https://img.icons8.com/color/344/postgreesql.png"> 
-        </td>
-
-        <td align="center" width="20%">
-            <p><b><center>Sequelize</center></b></p> 
-            <img height=65px src="https://github.com/gabrielweht/gabrielweht/blob/main/logoSequelize.png"> 
-        </td>
-    </tr>
 </tbody>
 </table>
 
