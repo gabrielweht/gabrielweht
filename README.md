@@ -2,7 +2,7 @@
     <img src='https://github.com/gabrielweht/gabrielweht/blob/main/imgageRead.jpg' </img>
 </p>
 
-<h1 align="center">Hola 👋👋, mi nombre es Gabriel Weht <a href="https://www.linkedin.com/in/gabriel-weht/" target='_blank'>
+<h1 align="center">Hola 👋👋, mi nombre es Gabriel Weht <a href="https://www.linkedin.com/in/gabriel-weht/" target="_blank">
   <img align="left" alt="Gabriel's LinkdeIN" width="26px" color='white' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a></h1>
 
