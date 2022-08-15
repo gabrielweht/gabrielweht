@@ -2,14 +2,13 @@
     <img src='https://github.com/gabrielweht/gabrielweht/blob/main/imgageRead.jpg' </img>
 </p>
 
-<h1 align="center">Hola 👋👋, mi nombre es Gabriel Weht <a href="https://www.linkedin.com/in/gabriel-weht/">
+<h1 align="center">Hola 👋👋, mi nombre es Gabriel Weht <a href="https://www.linkedin.com/in/gabriel-weht/" target='_blank'>
   <img align="left" alt="Gabriel's LinkdeIN" width="26px" color='white' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a></h1>
 
 <h3 align="center">Soy Desarrollador Web Full Stack con capacidad de realizar proyectos teniendo en mente siempre la escalabilidad y modularización del mismo. Además me considero una persona curiosa, siempre buscando aprender más y compartiendo lo que ya sé con el resto. Con orientación a los resultados y al cliente y con gran capacidad analítica.</h3>
 
-
-
+<hr/>
 
 ### Tech Skills:
 
