@@ -70,7 +70,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Sequelize</center></b></span> 
-<img height=65px src="https://assets.stickpng.com/images/58482ee4cef1014c0b5e4a75.png"> 
+<img height=65px src="https://pbs.twimg.com/profile_images/1509802359383367691/R0psIpR4_400x400.jpg"> 
 </td>
 
 
