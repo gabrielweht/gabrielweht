@@ -15,7 +15,7 @@
 ### Tech Skills:
 
 <table align='center'>
-    <tbody>
+<tbody>
     
     <tr>  
         <td align="center" width="20%">
@@ -67,8 +67,7 @@
             <img height=65px src="https://github.com/gabrielweht/gabrielweht/blob/main/logoSequelize.png"> 
         </td>
     </tr>
-
-    </tbody>
+</tbody>
 </table>
 
 <hr/>
