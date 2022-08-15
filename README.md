@@ -97,6 +97,7 @@ Más abajo podrás ver ambos repositorios
 
 ### ¿Quieres saber más? Contáctame: 
 <a href="https://www.linkedin.com/in/gabriel-weht/" target="_blank">
-  <img alt="LinkdeIn" width="26px" color='white' src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
+  <img alt="LinkdeIn" width="15%" color='white' src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />
 </a>
-<a href="mailto:gabrielestebanw@gmail.com" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a>
+<a href="mailto:gabrielestebanw@gmail.com" target="_blank"><img src="https://img.icons8.com/color/344/gmail.png" width="15%" alt="mail"></a>
+<a href="https://wa.me/+5490351158019304" target="_blank"><img src="https://img.icons8.com/color/344/whatsapp.png" width="15%" alt="mail"></a>
