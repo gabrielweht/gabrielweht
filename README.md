@@ -4,7 +4,7 @@
 
 <h1 align="center">Hola 👋👋, mi nombre es Gabriel Weht</h1>
 
-<h3 align="center">Soy Desarrollador Web Full Stack con capacidad de realizar proyectos teniendo en mente siempre la escalabilidad y modularización del mismo. Además me considero una persona curiosa, siempre buscando aprender más y compartiendo lo que ya sé con el resto. Con orientación a los resultados y al cliente y con gran capacidad analítica.</h3>
+<h3 align="center">Software Developer altamente motivado con experiencia en el desarrollo y mantenimiento de aplicaciones. Apasionado por la resolución de problemas y la creación de soluciones innovadoras y escalables. Experiencia trabajando en NodeJS, React, Redux, Angular, SQL Server entre otras tecnologías del sector. Con pensamiento creativo, autonomía, resolución de problemas, orientación al cliente y a los resultados, adaptabilidad, capacidad para trabajar en equipo en un entorno de desarrollo ágil. Mi objetivo es seguir creciendo profesionalmente y aprender nuevas habilidades para mejorar mi rendimiento y contribuir al éxito de mi equipo y de la empresa.</h3>
 
 <hr/>
 
