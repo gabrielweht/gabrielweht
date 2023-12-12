@@ -35,12 +35,18 @@
 </td>
 
 <td align="center" width="25%">
-<p><b><center>HTML</center></b></p> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+<p><b><center>NodeJS</center></b></p> 
+<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
+
 </tr>
 
 <tr>
+<td align="center" width="25%">
+<p><b><center>HTML</center></b></p> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+    
 <td align="center" width="25%">
 <p><b><center>CSS3</center></b></p> 
 <img height=65px src="https://img.icons8.com/color/344/css3.png"> 
@@ -57,17 +63,13 @@
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
 
-<td align="center" width="25%">
-<p><b><center>Redux</center></b></p> 
-<img height=65px src="https://img.icons8.com/color/452/redux.png"> 
-</td>
 </tr>
     
 <tr>
     
 <td align="center" width="25%">
-<p><b><center>NodeJS</center></b></p> 
-<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+<p><b><center>Redux</center></b></p> 
+<img height=65px src="https://img.icons8.com/color/452/redux.png"> 
 </td>
 
 <td align="center" width="25%">
