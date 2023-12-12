@@ -72,6 +72,11 @@
 </td>
 
 <td align="center" width="25%">
+<p><b><center>Entity Framework</center></b></p> 
+<img height=65px src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png"> 
+</td>
+
+<td align="center" width="25%">
 <p><b><center>postgreSQL</center></b></p> 
 <img height=65px src="https://img.icons8.com/color/344/postgreesql.png"> 
 </td>
