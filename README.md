@@ -21,7 +21,7 @@
 
 <td align="center" width="20%">
 <p><b><center>C#</center></b></p> 
-<img height=65px src="https://iconos8.es/icon/Fycm8TUhWmFU/c-sharp-logotipo"> 
+<img height=65px src="https://img.icons8.com/nolan/64/c-sharp-logo.png"> 
 </td> 
     
 <td align="center" width="20%">
@@ -38,14 +38,14 @@
 <p><b><center>HTML</center></b></p> 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
-     
+</tr>
+
+<tr>
 <td align="center" width="20%">
 <p><b><center>CSS3</center></b></p> 
 <img height=65px src="https://img.icons8.com/color/344/css3.png"> 
 </td>
-</tr>
-    
-<tr>
+
     
 <td align="center" width="20%">
 <p><b><center>AngularJS</center></b></p> 
@@ -61,14 +61,15 @@
 <p><b><center>Redux</center></b></p> 
 <img height=65px src="https://img.icons8.com/color/452/redux.png"> 
 </td>
+</tr>
+    
+<tr>
     
 <td align="center" width="20%">
 <p><b><center>NodeJS</center></b></p> 
 <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
-</tr>
-    
-<tr>
+
 <td align="center" width="20%">
 <p><b><center>SQL</center></b></p> 
 <img height=65px src="https://img.icons8.com/color/344/sql.png"> 
