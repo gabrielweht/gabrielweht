@@ -64,7 +64,7 @@
 
 </tr>
     
-<tr>
+<tr width="100%">
 
 <td align="center" width="25%">
 <p><b><center>SQL Server</center></b></p> 
