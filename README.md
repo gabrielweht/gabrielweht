@@ -18,6 +18,12 @@
 <tbody>
     
 <tr>  
+
+<td align="center" width="20%">
+<p><b><center>C#</center></b></p> 
+<img height=65px src="https://iconos8.es/icon/Fycm8TUhWmFU/c-sharp-logotipo"> 
+</td> 
+    
 <td align="center" width="20%">
 <p><b><center>JavaScript</center></b></p> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
