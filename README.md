@@ -43,15 +43,9 @@
 
 <tr>
 <td align="center" width="25%">
-<p><b><center>HTML</center></b></p> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+<p><b><center>.NET</center></b></p> 
+<img height=65px src="https://img.icons8.com/color/48/net-framework.png"> 
 </td>
-    
-<td align="center" width="25%">
-<p><b><center>CSS3</center></b></p> 
-<img height=65px src="https://img.icons8.com/color/344/css3.png"> 
-</td>
-
     
 <td align="center" width="25%">
 <p><b><center>AngularJS</center></b></p> 
@@ -63,17 +57,17 @@
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
 
-</tr>
-    
-<tr>
-    
 <td align="center" width="25%">
 <p><b><center>Redux</center></b></p> 
 <img height=65px src="https://img.icons8.com/color/452/redux.png"> 
 </td>
 
+</tr>
+    
+<tr>
+
 <td align="center" width="25%">
-<p><b><center>SQL</center></b></p> 
+<p><b><center>SQL Server</center></b></p> 
 <img height=65px src="https://img.icons8.com/color/344/sql.png"> 
 </td>
 
