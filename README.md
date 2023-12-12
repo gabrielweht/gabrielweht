@@ -72,8 +72,8 @@
 </td>
 
 <td align="center" width="25%">
-<p><b><center>ADO.NET EF</center></b></p> 
-<img height=65px src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png"> 
+<p><b><center>Entity Framework</center></b></p> 
+<img height=65px margin=0 src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png"> 
 </td>
 
 <td align="center" width="25%">
