@@ -14,7 +14,7 @@
 
 ### Tech Skills:
 
-<table align='center' width='50%'>
+<table align='center' width='80rem'>
 <tbody>
     
 <tr>  
